@@ -10,7 +10,7 @@ const Contact = React.createClass({
                 },
                 React.createElement('img', {
                     className: 'contactImage',
-                    src: 'http://icons.veryicon.com/ico/System/100%20Flat%20Vol.%202/contacts.ico'
+                    src: 'https://www.kwsme.com/wp-content/uploads/2016/06/login-user-icon.png'
                 }),
                 React.createElement('p', {
                     className: 'contactLabel'
